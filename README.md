@@ -136,28 +136,4 @@
 }
 ```
 
----
 
-## 🔌 获取 APIKey
-
-访问 [www.rockmoons.com](https://www.rockmoons.com) 注册获取 平台 APIKey（API密钥）
-
-注册后可调用 11 个抖音数据接口（视频详情、用户信息、搜索、评论等）。
-
----
-
-## 📞 联系作者
-
-| 项目 | 内容 |
-|------|------|
-| 作者 | 阿南 rockmoons（抖音） |
-| 微信 | rockmoons |
-| 官网 | [www.rockmoons.com](https://www.rockmoons.com) |
-
----
-
-## 🚧 即将上线
-
-- 云端语音识别（比本地更快）
-- 飞书多级表格导出
-- 更多改写模板
