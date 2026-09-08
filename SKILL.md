@@ -1,11 +1,10 @@
 ---
 name: dy-extract
-description: 抖音视频数据提取工具。输入抖音链接或作品ID，一键获取视频完整数据（28个字段）、提取音频文案转为文字（本地Whisper）、AI改写二创（6种模式）、批量处理（支持txt/csv/xlsx/docx文件输入）、导出Excel。当用户发送抖音链接（douyin.com、v.douyin.com、iesdouyin.com）或作品ID，发文件路径（.txt/.csv/.xlsx/.docx），或提到「查视频」「提取文案」「改写」「导出Excel」「批量查询」「读这个文件」「处理这个表格」时使用。也可用 /dy-extract 显式调用。作者：阿南 rockmoons（抖音）微信：rockmoons API获取：www.rockmoons.com
+description: 抖音视频数据提取工具。输入抖音链接或作品ID，一键获取视频完整数据（28个字段）、提取音频文案转为文字（本地Whisper）、AI改写二创（6种模式）、批量处理（支持txt/csv/xlsx/docx文件输入）、导出Excel。当用户发送抖音链接（douyin.com、v.douyin.com、iesdouyin.com）或作品ID，发文件路径（.txt/.csv/.xlsx/.docx），或提到「查视频」「提取文案」「改写」「导出Excel」「批量查询」「读这个文件」「处理这个表格」时使用。也可用 /dy-extract 显式调用。
 ---
 
 # dy-extract · 抖音视频数据提取工具
 
-> 作者：阿南 rockmoons（抖音）· 微信：rockmoons · API 获取：www.rockmoons.com
 
 ## 中文编码铁律
 
